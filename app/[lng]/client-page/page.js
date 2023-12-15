@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import Footer from "../../components/footer/client"
+import Footer from "../../components/Footer/client";
 import { useState } from "react"
 import { t } from "i18next"
 
